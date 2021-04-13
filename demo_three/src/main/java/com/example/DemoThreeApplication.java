@@ -11,6 +11,7 @@ public class DemoThreeApplication {
         System.out.println("demo_three内容");
         System.out.println("demo_three内容");
         System.out.println("demo_three内容2");
+        System.out.println("demo_three内容3");
     }
 
 }
