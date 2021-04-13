@@ -10,7 +10,7 @@ public class DemoThreeApplication {
         SpringApplication.run(DemoThreeApplication.class, args);
         System.out.println("demo_three内容1234");
         System.out.println("demo_three内容567");
-        
+        System.out.println("demo_three内容568");
     }
 
 }
